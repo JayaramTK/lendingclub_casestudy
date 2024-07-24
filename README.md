@@ -8,22 +8,23 @@
 
 ## General Information
 ### Project Information
-o	Understand data to minimize the risk of losing money while lending to customers using EDA techniques in data science. To minimize the credit loss(avoiding defaults).
+-	Understand data to minimize the risk of losing money while lending to customers using EDA techniques in data science. To minimize the credit loss(avoiding defaults).
 Project Background
-o	This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
-Project Statement
-o	To work on the data of the loan applications to find out the strong indicators of default, so as to minimize the credit loss for the banking and financial sector companies.
-o	Perform analysis using EDA techniques to understand and pick the driving factors behind loan defaults. The analysis can be utilized by the banks for risk assessment during provision of loans.
+-	This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+
+### Project Statement
+-	To work on the data of the loan applications to find out the strong indicators of default, so as to minimize the credit loss for the banking and financial sector companies.
+-	Perform analysis using EDA techniques to understand and pick the driving factors behind loan defaults. The analysis can be utilized by the banks for risk assessment during provision of loans.
 Data Set
-o	The data set of lending loan is in CSV file format
+-	The data set of lending loan is in CSV file format
 
 
 ## Conclusions
 ### Major Driving factors
-o	Annual Income
-o	Interest Rate
-o	Term
-o	Grade
+-	Annual Income
+-	Interest Rate
+-	Term
+-	Grade
 
 ### Considerations for defaults:
 •	It’s safer to give loans at 36 months than 60 months
